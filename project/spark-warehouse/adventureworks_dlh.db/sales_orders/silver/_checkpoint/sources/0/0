@@ -1,0 +1,4 @@
+v1
+{"path":"file:///c:/Users/Jennifer/Documents/DS2002/ds2002capstone/project/spark-warehouse/adventureworks_dlh.db/sales_orders/bronze/part-00000-287e0aa4-4e61-4a85-9217-f5ba3af813de-c000.snappy.parquet","timestamp":1746829590464,"batchId":0}
+{"path":"file:///c:/Users/Jennifer/Documents/DS2002/ds2002capstone/project/spark-warehouse/adventureworks_dlh.db/sales_orders/bronze/part-00000-57387f18-7f0c-4339-ba9e-22f2dd345729-c000.snappy.parquet","timestamp":1746829594434,"batchId":0}
+{"path":"file:///c:/Users/Jennifer/Documents/DS2002/ds2002capstone/project/spark-warehouse/adventureworks_dlh.db/sales_orders/bronze/part-00000-f4aba31f-aedc-45a1-a32d-45ec08bff5da-c000.snappy.parquet","timestamp":1746829599172,"batchId":0}
